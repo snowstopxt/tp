@@ -74,6 +74,8 @@
         "adding-an-internship-application": "Adding an internship application",
         "deleting-an-internship-application": "Deleting an internship application",
         "sorting-the-list-of-internship-applications": "Sorting the list of internship applications",
+        "finding-internship-applications": "Finding internship applications",
+        "updating-the-status-of-an-internship-application": "Updating the status of an internship application",
         "saving-data": "Saving data",
         "shutdown": "Shutdown"
       },
@@ -158,7 +160,7 @@
       "src": "team/raghava-chittidi.md",
       "title": "Raghava Chittidi's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-hireme": "Project: HireMe"
       },
       "headingKeywords": {}
     },
